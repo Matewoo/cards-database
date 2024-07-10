@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Sehr selten führt eine plötzliche Mutation eines Zwillings-Smogon zu einer Verbindung zu Smogmog."
 	},
 
 	regulationMark: "G",

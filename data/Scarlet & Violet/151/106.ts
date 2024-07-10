@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Es kann seine Beine nach Belieben ausfahren und einziehen und so auch entfernte Gegner treffen."
 	},
 
 	regulationMark: "G",

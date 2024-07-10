@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 4,
 
 	description: {
-		de: ""
+		de: "Es ernährt sich vorwiegend von Käfer-Pokémon. Hat es diese mit der langen Zunge abgeschleckt und dadurch gelähmt, verschlingt es sie im Nu."
 	},
 
 	regulationMark: "G",

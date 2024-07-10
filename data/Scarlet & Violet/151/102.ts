@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es muss immer aus sechs Mitgliedern bestehen, sonst herrscht Unruhe. Fehlt auch nur eines, steigt bei den anderen die Bereitschaft zur Flucht."
 	},
 
 	regulationMark: "G",

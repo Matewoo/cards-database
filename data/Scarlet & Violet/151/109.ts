@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Sein Körper ist zum Bersten voll mit Giftgas. Angelockt vom fauligen Geruch verrottender Abfälle, lungert es auf Müllhalden herum."
 	},
 
 	regulationMark: "G",

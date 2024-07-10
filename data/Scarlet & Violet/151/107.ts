@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Seine Fäuste zerschneiden die Luft. Es muss jedoch alle drei Minuten eine kurze Pauese einlegen."
 	},
 
 	regulationMark: "G",

@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es trägt den Schädel seiner verstorbenen Mutter. Manchmal weint Tragosso, während es träumt, doch jede vergossene Träne macht es stärker."
 	},
 
 	regulationMark: "G",

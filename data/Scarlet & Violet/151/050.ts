@@ -49,6 +49,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Dieses Pokémon lebt 1 m unter der Erde. Es frisst Wurzeln und kommt hin und wieder an die Oberfläche."
+	},
+
 	regulationMark: "G",
 
 	variants: {

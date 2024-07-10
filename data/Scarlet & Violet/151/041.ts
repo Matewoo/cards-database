@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Zubat leben tief in Höhlen, wo das Sonnenlicht sie nicht erreicht. Bei Tagesanbruch rücken sie zusammen, um sich im Schlaf zu wärmen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

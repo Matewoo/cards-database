@@ -26,6 +26,11 @@ const card: Card = {
 	},
 
 	trainerType: "Supporter",
+
+	description: {
+		de: ""
+	},
+
 	regulationMark: "G",
 
 	variants: {

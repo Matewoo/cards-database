@@ -45,6 +45,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Ein weitverbreitetes Pokémon, das nicht ganz ungefährlich ist. Selbst hartes Holz zerkleinert es mit seinen scharfen Nagezähnen mühelos."
+	},
+
 	regulationMark: "G",
 
 	variants: {

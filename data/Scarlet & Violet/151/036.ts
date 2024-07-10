@@ -65,6 +65,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Ihr Gehör erfasst das Geräusch einer fallenden Nadel noch aus 1 km Entfernung. Sie bevorzugen daher ruhige Orte."
+	},
+
 	regulationMark: "G",
 
 	variants: {

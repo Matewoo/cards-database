@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Je größer die Blütenblätter, desto mehr giftige Pollen enthält die Blüte. Aber es ist auch umso erschöpfter, da sein Kopf so schwer wird."
+	},
+
 	regulationMark: "G",
 
 	variants: {

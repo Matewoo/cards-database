@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Seine Flügel sind mit staubähnlichen Schuppen überzogen. Mit jedem Flügelschlag verstreut es hochgiftigen Puder."
+	},
+
 	regulationMark: "G",
 
 	variants: {

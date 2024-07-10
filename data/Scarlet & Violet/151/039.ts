@@ -65,6 +65,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Wenn seine Kulleraugen zu flackern beginnen, singt es ein mysteriöses, wohlklingendes Lied, das Zuhörer in Schlaf versetzt."
+	},
+
 	regulationMark: "G",
 
 	variants: {

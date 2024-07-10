@@ -67,6 +67,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Mit seinen scharfen Krallen klettert es auf Bäume und wirft unten wartenden Sandan Beeren zu, die sie sich dann teilen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

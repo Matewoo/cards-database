@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Der Pilz auf seinem Rücken ist sein wichtigstes Körperteil. Der Rest ist quasi leblos und kann sich ohne Pilz nicht bewegen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

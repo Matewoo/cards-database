@@ -49,6 +49,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Sein Giftstachel ist gefährlich. Sein helleuchtender Körper soll Feinde abschrecken."
+	},
+
 	regulationMark: "G",
 
 	variants: {

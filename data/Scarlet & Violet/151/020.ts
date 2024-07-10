@@ -45,6 +45,11 @@ const card: Card = {
 	}],
 
 	retreat: 0,
+
+	description: {
+		de: "Mit seinen Barthaaren hält es die Balance. Berührt man sie, wird es wütend und beißt zu, egal, wie zutraulich es auch sein mag."
+	},
+
 	regulationMark: "G",
 
 	variants: {

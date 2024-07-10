@@ -49,6 +49,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Es ist nervös und wird schnell aggressiv. Steigt sein Adrenalinspiegel, erhöht sich gleichzeitig auch die Konzentration seines Gifts."
+	},
+
 	regulationMark: "G",
 
 	variants: {

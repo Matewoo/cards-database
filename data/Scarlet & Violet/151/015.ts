@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Es kann in Schwärmen auftauchen. Während seines rasanten Fluges sticht es mit dem Giftstachel an seinem Hinterteil zu."
+	},
+
 	regulationMark: "G",
 
 	variants: {

@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Ist es wütend, entläd sich augenblicklich die Elektrizität, die es in seinen Backentaschen gespeichert hat."
+	},
+
 	regulationMark: "G",
 
 	variants: {

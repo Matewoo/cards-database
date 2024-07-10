@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Paras' Körper kann nicht nach seinem eigenen Willen handeln, da er von Tochukaso, den Pilzen auf seinem Rücken, kontrolliert wird."
+	},
+
 	regulationMark: "G",
 
 	variants: {

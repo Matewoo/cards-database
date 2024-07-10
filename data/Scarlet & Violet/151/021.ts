@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Aufgrund seiner kurzen Flügel kann es keine langen Strecken fliegen. Es rennt wild durch die Gegend, um Käfer-Pokémon aufzupicken."
+	},
+
 	regulationMark: "G",
 
 	variants: {

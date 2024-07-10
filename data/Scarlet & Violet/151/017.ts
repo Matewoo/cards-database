@@ -36,6 +36,11 @@ const card: Card = {
 	}],
 
 	retreat: 0,
+
+	description: {
+		de: "Dieses Pokémon verteidigt sein abgegrenztes Areal sorgsam gegen alle Eindringlinge."
+	},
+
 	regulationMark: "G",
 
 	variants: {

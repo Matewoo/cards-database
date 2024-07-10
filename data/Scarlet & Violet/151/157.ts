@@ -26,6 +26,11 @@ const card: Card = {
 	},
 
 	trainerType: "Stadium",
+
+	description: {
+		de: ""
+	},
+
 	regulationMark: "G",
 
 	variants: {

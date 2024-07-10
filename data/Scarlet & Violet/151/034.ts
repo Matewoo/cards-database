@@ -67,6 +67,11 @@ const card: Card = {
 	}],
 
 	retreat: 3,
+
+	description: {
+		de: "Nidoking ist stolz auf seine Kraft und kämpft sehr geschickt mit seinem dicken Schweif und seinem Horn, das selbst Diamanten zertrümmern kann."
+	},
+
 	regulationMark: "G",
 
 	variants: {

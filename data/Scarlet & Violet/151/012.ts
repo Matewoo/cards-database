@@ -65,6 +65,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Es sammelt täglich Honig. Es reibt ihn in seine Beinhaare, um ihn in sein Nest zu transportieren."
+	},
+
 	regulationMark: "G",
 
 	variants: {

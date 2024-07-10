@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 3,
+
+	description: {
+		de: "Während es auf seine Entwicklung wartet, versteckt es sich unter Blättern und zwischen Ästen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

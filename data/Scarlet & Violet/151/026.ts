@@ -67,6 +67,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Mithilfe seines Schweifs entläd es Elektrizität in den Boden, um sich auf diese Weise vor elektrischen Schlägen zu schützen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

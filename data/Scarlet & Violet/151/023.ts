@@ -45,6 +45,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Die Eier von Vogel-Pokémon, sein Leibgericht, verschlingt es am Stück. Bleibt ihm eines in der Kehle stecken, verliert es kurz das Bewusstsein."
+	},
+
 	regulationMark: "G",
 
 	variants: {

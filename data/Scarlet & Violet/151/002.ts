@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 3,
+
+	description: {
+		de: "Die Sonne macht es stärker. Die Knospe auf seinem Rücken wächst unter dem Einfluss von Sonnenlicht."
+	},
+
 	regulationMark: "G",
 
 	variants: {

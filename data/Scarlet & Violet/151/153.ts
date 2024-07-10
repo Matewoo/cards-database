@@ -59,6 +59,10 @@ const card: Card = {
 		}
 	}],
 
+	description: {
+		de: ""
+	},
+
 	variants: {
 		holo: false
 	}

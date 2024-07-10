@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Steigert es sich in einen Kampf hinein, spuckt es Flammen, die alles in seiner Umgebung niederbrennen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

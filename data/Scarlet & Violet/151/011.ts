@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 3,
+
+	description: {
+		de: "In seiner harten Schale ist ein weicher Körper. Einem brutalen Angriff hat es nichts entgegenzusetzen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

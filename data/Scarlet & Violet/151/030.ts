@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Nähert sich Gefahr, schließen sie sich mit anderen Artgenossen zusammen und begegnen der Bedrohung mit einem Chor aus Ultraschallwellen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

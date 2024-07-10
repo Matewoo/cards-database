@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 0,
+
+	description: {
+		de: "Es breitet seine betörenden Schwingen aus, um den Gegner einzuschüchtern. Seine Fluggeschwindigkeit liegt bei Mach 2."
+	},
+
 	regulationMark: "G",
 
 	variants: {

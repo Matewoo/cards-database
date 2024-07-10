@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Es balanciert geschickt mit seinen buschigen Ohren und dem Schweif, während es im Wasser schwimmt."
+	},
+
 	regulationMark: "G",
 
 	variants: {

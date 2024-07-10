@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 0,
+
+	description: {
+		de: "Wer Essbares dabeihat, sollte sich nicht in Ibitaks Revier begeben, da sonst ein Überfall aus heiterem Himmel droht."
+	},
+
 	regulationMark: "G",
 
 	variants: {

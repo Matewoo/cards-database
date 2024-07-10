@@ -49,6 +49,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Aus seinem ganzen Körper tritt Gift aus. Es fängt und frisst nachts kleine Käfer-Pokémon, die von Licht angelockt wurden."
+	},
+
 	regulationMark: "G",
 
 	variants: {

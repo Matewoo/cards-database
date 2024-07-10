@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Aufgrund seines reizenden Wesens und seines Rufes erfreut sich dieses Pokémon großer Beliebtheit. Leider ist es auch sehr selten"
+	},
+
 	regulationMark: "G",
 
 	variants: {

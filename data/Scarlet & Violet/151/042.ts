@@ -43,6 +43,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Golbat kann trotz seiner kleinen Beine geschickt laufen. Es schleicht sich an schlafende Beute an, stößt seine Zähne in sie und schlürft ihr Blut."
+	},
+
 	regulationMark: "G",
 
 	variants: {

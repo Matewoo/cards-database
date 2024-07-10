@@ -26,6 +26,11 @@ const card: Card = {
 	},
 
 	trainerType: "Tool",
+
+	description: {
+		de: ""
+	},
+
 	regulationMark: "G",
 
 	variants: {

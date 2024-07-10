@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Es gräbt sich seinen Bau im Erdboden. Stößt es dabei auf harte Steine, zerstört es diese mit seinen scharfen Krallen und gräbt unbeirrt weiter."
+	},
+
 	regulationMark: "G",
 
 	variants: {

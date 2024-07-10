@@ -36,6 +36,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Trotz seiner geringen Größe ist es sehr mutig. Um ein befreundetes Weibchen zu beschützen, riskiert es sein Leben und kämpft unerschrocken."
+	},
+
 	regulationMark: "G",
 
 	variants: {

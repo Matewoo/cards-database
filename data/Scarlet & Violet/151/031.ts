@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 3,
+
+	description: {
+		de: "Es beruhigt seine Jungen, indem es diese zwischen den Stacheln auf seinem Rücken reiten lässt. Die Stacheln sondern derweil kein Gift ab."
+	},
+
 	regulationMark: "G",
 
 	variants: {

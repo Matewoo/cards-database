@@ -45,6 +45,11 @@ const card: Card = {
 	}],
 
 	retreat: 2,
+
+	description: {
+		de: "Nach der Geburt nimmt es für eine Weile Nährstoffe über den Samen auf seinem Rücken auf."
+	},
+
 	regulationMark: "G",
 
 	variants: {

@@ -58,6 +58,11 @@ const card: Card = {
 	}],
 
 	retreat: 3,
+
+	description: {
+		de: ""
+	},
+
 	regulationMark: "G",
 
 	variants: {

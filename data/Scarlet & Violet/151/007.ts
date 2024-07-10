@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Fühlt es sich bedroht, verkriecht es sich in seinem Panzer und spuckt Wasser aus seinem Maul."
+	},
+
 	regulationMark: "G",
 
 	variants: {

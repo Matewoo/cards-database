@@ -45,6 +45,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Mit ihren harten Vorderzähnen zerteilen sie Beeren, bevor sie diese essen. Die Spitze ihres Horns ist etwas abgerundeter als bei Männchen."
+	},
+
 	regulationMark: "G",
 
 	variants: {

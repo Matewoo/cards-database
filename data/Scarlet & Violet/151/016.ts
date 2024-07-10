@@ -56,6 +56,11 @@ const card: Card = {
 	}],
 
 	retreat: 1,
+
+	description: {
+		de: "Reizt man dieses an sich gutmütige Pokémon, wehrt es sich wütend."
+	},
+
 	regulationMark: "G",
 
 	variants: {

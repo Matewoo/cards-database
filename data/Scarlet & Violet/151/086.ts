@@ -38,7 +38,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Kalte Meere machen ihm dank seiner dicken Fettschicht nichts aus. Wärmere Gewässer setzen ihm hingegen sehr zu."
 	},
 
 	regulationMark: "G",

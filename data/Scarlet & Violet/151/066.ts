@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Da es vor Kraft strotzt, hebt es zum Zeitvertreib Felsen. Dadurch gewinnt es an zusätzlicher Stärke."
 	},
 
 	regulationMark: "G",

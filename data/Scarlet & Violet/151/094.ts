@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 0,
 
 	description: {
-		de: ""
+		de: "Um Beute zu erlegen, versteckt es sich in deren Schatten und wartet still auf eine günstige Gelegenheit."
 	},
 
 	regulationMark: "G",

@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Es ist sowohl ein begnadeter Schwimmer als auch Kampfsportler. Mit seinen durchtrainierten Armen teilt es kräftige Schläge aus."
 	},
 
 	regulationMark: "G",

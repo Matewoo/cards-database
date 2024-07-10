@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es schläft den ganzen Tag. Nachts patrouilliert es sein Revier mit glühenden Augen."
 	},
 
 	regulationMark: "G",

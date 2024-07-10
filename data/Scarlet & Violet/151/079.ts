@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Ein unglaublich träges und einfältiges Pokémon. Wenn es angegriffen wird, bemerkt es den Schmerz erst fünf Sekunden später."
 	},
 
 	regulationMark: "G",

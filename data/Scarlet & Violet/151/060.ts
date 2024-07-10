@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "In schnell fließenden Flüssen hält es sich mithilfe seiner dicken Lippen, die als Saugnapf fungieren, an Felsen fest."
 	},
 
 	regulationMark: "G",

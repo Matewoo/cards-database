@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Aufgrund seines schönen Fells wollen viele ein Snobilikat im Haus haben. Es ist jedoch schwer erziehbar, da es sehr schnell kratzt."
 	},
 
 	regulationMark: "G",

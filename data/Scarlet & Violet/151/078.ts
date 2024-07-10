@@ -67,7 +67,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Das schnellste Exemplar wird zum Anführer bestimmt und gibt als solcher den Zielort und die Geschwindigkeit der Herde vor."
 	},
 
 	regulationMark: "G",

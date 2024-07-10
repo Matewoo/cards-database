@@ -67,7 +67,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Als Flegmon im Meer jagen ging, biss ein Muschas in seine Rute. Dadurch entwickelt es sich zu Lahmus."
 	},
 
 	regulationMark: "G",

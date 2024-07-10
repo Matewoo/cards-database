@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es lebt mit Artgenossen in Baumkronen. Verliert es sie aus den Augen, wird es vor Einsamkeit sofort zornig."
 	},
 
 	regulationMark: "G",

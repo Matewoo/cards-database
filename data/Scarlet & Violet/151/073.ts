@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Tentoxa kann seine 80 Tentakel beliebig ausfahren und einziehen. Es breitet sie netzartig aus, um Beute zu fangen und dann zu vergiften."
 	},
 
 	regulationMark: "G",

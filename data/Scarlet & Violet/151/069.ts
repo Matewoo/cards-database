@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Seine Knospe ähnelt einem Menschengesicht. Man sagt, dass es mit der legendären Mandragora verwandt ist."
 	},
 
 	regulationMark: "G",

@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 3,
 
 	description: {
-		de: ""
+		de: "Seine Riesenschere ist sehr stark, aber wenn es nicht kämpft, kommt sie ihm häufig in die Quere."
 	},
 
 	regulationMark: "G",

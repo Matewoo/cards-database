@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Sein durchtrainierter Körper wird müde. Es hilft den Menschen, indem es schwere Sachen trägt."
 	},
 
 	regulationMark: "G",

@@ -38,7 +38,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Es kann sich an jeden gefressenen Traum erinnern. Die Träume von Kindern schmecken ihm besser, weshalb es die von Erwachsenen nur selten frisst."
 	},
 
 	regulationMark: "G",

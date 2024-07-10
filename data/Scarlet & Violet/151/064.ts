@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Kadabra verfügt über enorme psychokinetische Macht. Als Vorbereitung für seine Entwicklung speichert es im Stream auf der Stirn Psycho-Kräfte."
 	},
 
 	regulationMark: "G",

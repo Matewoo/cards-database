@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 3,
 
 	description: {
-		de: ""
+		de: "Es bewegt sich rollend über Abhänge fort. Stürzt es versehentlich in einen Fluss, sprengt es sich in seiner Verzweiflung selbst in die Luft."
 	},
 
 	regulationMark: "G",

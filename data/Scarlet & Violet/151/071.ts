@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 3,
 
 	description: {
-		de: ""
+		de: "Selbst die härtesten Objekte werden zersetzt, wenn der Körper sie erst aufgenommen hat."
 	},
 
 	regulationMark: "G",

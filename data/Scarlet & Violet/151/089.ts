@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 4,
 
 	description: {
-		de: ""
+		de: "Der schmutzige Schleim dieses Pokémon ist extrem toxisch. Selbst die Spuren, die es hinterlässt, enthalten Gift."
 	},
 
 	regulationMark: "G",

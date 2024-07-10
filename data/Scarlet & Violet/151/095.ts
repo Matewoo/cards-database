@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 4,
 
 	description: {
-		de: ""
+		de: "Es bohrt sich mit 80 km/h durch das Erdreich, indem es seinen massiven, rauen Körper dreht und windet."
 	},
 
 	regulationMark: "G",

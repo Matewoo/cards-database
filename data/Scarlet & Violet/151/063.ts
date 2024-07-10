@@ -38,7 +38,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es kann sich im Schlaf teleportieren. Je tiefer Abra schläft, desto weiter entfernt soll der Ort sein, an den es sich teleportiert."
 	},
 
 	regulationMark: "G",

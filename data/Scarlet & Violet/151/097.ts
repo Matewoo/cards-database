@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Es heißt, wenn dieses Pokémon einem Gegner ins Auge blicke, setze es zahlreiche Psycho-Kräfte wie beispielsweise Hypnose ein."
 	},
 
 	regulationMark: "G",

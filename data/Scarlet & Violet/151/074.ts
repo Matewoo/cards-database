@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Mit den Armen erklimmt es selbst steile Hänge. Unter den Menschen soll diese Klettermethode Vorbild für den Bouldersport gewesen sein."
 	},
 
 	regulationMark: "G",

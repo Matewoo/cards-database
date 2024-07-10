@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Nach einer Mahlzeit genießt es ein Sonnebad am Strand. Durch die erhöhte Körpertemperatur wird seine Verdauung unterstützt."
 	},
 
 	regulationMark: "G",

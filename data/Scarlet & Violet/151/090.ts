@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Seine Schale ist härter als Diamant. Im Inneren ist s jedoch überraschend weich."
 	},
 
 	regulationMark: "G",

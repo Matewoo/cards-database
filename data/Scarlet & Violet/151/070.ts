@@ -51,7 +51,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Dieses Pokémon lähmt den Gegner mit Giftpuder, bevor es ihn mit Säure erledigt."
 	},
 
 	regulationMark: "G",

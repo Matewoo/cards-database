@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es bewegt sich rollend fort. Rollt es über unebenen Boden, kann es plötzlich explodieren."
 	},
 
 	regulationMark: "G",

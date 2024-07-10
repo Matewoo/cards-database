@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Quaputzi schwitzt glitschigen Schleim, dank dem es leicht der Umklammerung eines Feindes entkommen kann."
 	},
 
 	regulationMark: "G",

@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 4,
 
 	description: {
-		de: ""
+		de: "Eine alte Bildrolle zeigt, dass die Menschen von dem Anblick über Wiesen rennender Arkani verzaubert waren."
 	},
 
 	regulationMark: "G",

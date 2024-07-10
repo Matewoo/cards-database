@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Hat man erst einmal das Vertrauen eines Ponitas gewonnen, kann man seltsamerweise sogar seine feurige Mähne anfassen, ohne sich zu verbrennen."
 	},
 
 	regulationMark: "G",

@@ -51,7 +51,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Tentacha besteht fast vollständig aus Wasser, wodurch man es im Meer nur schwer erkennen kann."
 	},
 
 	regulationMark: "G",

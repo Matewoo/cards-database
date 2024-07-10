@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Die Gehirne der beiden Köpfe kommunizieren ihre Gefühle über Telepathie."
 	},
 
 	regulationMark: "G",

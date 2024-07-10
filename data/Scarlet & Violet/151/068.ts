@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Seine vier Arme reagieren schneller, als er denken kann. Daher ist es in der Lage, unzählige Schläge reflexartig auszuführen."
 	},
 
 	regulationMark: "G",

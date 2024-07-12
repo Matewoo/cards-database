@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Starmie bewegt sich im Wasser fort, indem es seinen Körper mit hoher Geschwindigkeit rotieren lässt. Unterwegs absorbiert es winziges Plankton."
 	},
 
 	regulationMark: "G",

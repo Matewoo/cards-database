@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 4,
 
 	description: {
-		de: ""
+		de: "Sein ganzer Körper ist von einer panzerähnlichen Haut geschützt. Es kann sogar bis in zu 2000°C heißer Lava leben."
 	},
 
 	regulationMark: "G",

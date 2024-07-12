@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Bei Gewittern versammeln sich Elektek in der Nähe von hohen Bäumen, wo sie regungslos auf Blitzeinschläge warten."
 	},
 
 	regulationMark: "G",

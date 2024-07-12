@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Sein Körper ist ständig in Flammen gehüllt, wodurch es als eine Ursache von Bränden gefürchtet wird."
 	},
 
 	regulationMark: "G",

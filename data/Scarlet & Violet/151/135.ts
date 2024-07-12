@@ -67,7 +67,7 @@ const card: Card = {
 	retreat: 0,
 
 	description: {
-		de: ""
+		de: "Es sammelt die schwache elektrische Energie, die von seinen Zellen ausgeht, und feuert starke Blitze ab."
 	},
 
 	regulationMark: "G",

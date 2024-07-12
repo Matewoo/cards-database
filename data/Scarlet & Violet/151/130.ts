@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 4,
 
 	description: {
-		de: ""
+		de: "Taucht es auf, randaliert es. Es beruhigt sich erst, wenn es alles um sich zerstört hat."
 	},
 
 	regulationMark: "G",

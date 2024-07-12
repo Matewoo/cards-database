@@ -45,7 +45,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Ein schwaches Pokémon. Manchmal gelingen ihm hohe Sprünge, aber über 2 m kommt es selten hinaus."
 	},
 
 	regulationMark: "G",

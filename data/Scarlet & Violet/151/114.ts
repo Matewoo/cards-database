@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Seine wahre Gestalt ist weiterhin ein Mysterium, da sie von Ranken verdeckt wird, die unaufhörlich nachwachsen, selbst wenn sie abreißen."
 	},
 
 	regulationMark: "G",

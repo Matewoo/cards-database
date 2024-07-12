@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Ihm macht es nichts aus, von Fisch-Pokémon angekanbbert zu werden, da sich sein Körper bei Verletzungen im Nu regeneriert."
 	},
 
 	regulationMark: "G",

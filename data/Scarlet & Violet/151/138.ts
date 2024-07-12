@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Ein einst ausgestorbenes Urzeit-Pokémon. Wenn es mit seinen zehn Tentakeln paddelnd durch das Wasser gleitet, meint man, es würde schweben."
 	},
 
 	regulationMark: "G",

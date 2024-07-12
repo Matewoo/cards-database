@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Um sich in seiner Umgebung perfekt anpassen zu können, ist es in der Lage, sich zu verschiedenen Pokémon zu entwickeln."
 	},
 
 	regulationMark: "G",

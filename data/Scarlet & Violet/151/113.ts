@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Ein freundliches Pokémon, das nahrhafte Eier legt, um diese mit verletzen Pokémon und Menschen zu teilen."
 	},
 
 	regulationMark: "G",

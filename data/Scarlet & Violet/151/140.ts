@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Es heißt zwar, dass Kabuto ausgestorben sei, doch in einer bestimmten Gegend trifft man es noch relativ häufig an."
 	},
 
 	regulationMark: "G",

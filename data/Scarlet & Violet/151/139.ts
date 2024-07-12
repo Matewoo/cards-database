@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 3,
 
 	description: {
-		de: ""
+		de: "Mit seinen scharfen Zähnen ist es imstande, selbst Felsen zu zermahlen. Angreifen kann es jedoch nur Beute in Reichweite seiner Tentakel."
 	},
 
 	regulationMark: "G",

@@ -58,7 +58,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es kommt gut mit Kälte zurecht und kann auch in eisigen Meeren problemlos schwimmen. Seine Haut fühlt sich glass und kühl an."
 	},
 
 	regulationMark: "G",

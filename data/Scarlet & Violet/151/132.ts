@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Seine Verwandlungskunst ist perfekt. Bringt man es jedoch zum Lachen, fliegt seine Tarnung auf."
 	},
 
 	regulationMark: "G",

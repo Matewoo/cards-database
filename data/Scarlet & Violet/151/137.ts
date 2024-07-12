@@ -45,7 +45,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "In den letzten Jahren nahm es im Cyberspace bei der Suche nach verdächtigen Daten eine aktive Rolle ein."
 	},
 
 	regulationMark: "G",

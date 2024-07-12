@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 0,
 
 	description: {
-		de: ""
+		de: "Es bahnt sich mit seinen scharfen Sicheln so schnell einen Weg durch das Gras, dass es dabei für das menschliche Auge unsichtbar ist."
 	},
 
 	regulationMark: "G",

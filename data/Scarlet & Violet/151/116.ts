@@ -51,7 +51,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es schwimmt elegant wie ein Tänzer und erzeugt dabei Wasserstrudel. Mit Artgenossen wetteifert es darum, wer den größten Strudel formen kann."
 	},
 
 	regulationMark: "G",

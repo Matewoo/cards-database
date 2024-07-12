@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Seine Rücken- und Brustflossen sind muskelähnlich entwickelt. Es erreicht beim Schwimmen eine Geschwindigkeit von bis zu 5 Knoten."
 	},
 
 	regulationMark: "G",

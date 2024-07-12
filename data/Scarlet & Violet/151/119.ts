@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Es laicht in Löchern, die es mit seinem Horn in Felsen des Flussbettes gebohrt hat, damit seine Eier nicht vom Wasser fortgespült werden."
 	},
 
 	regulationMark: "G",

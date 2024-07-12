@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Pinsir nimmt Beute mit seinen Hörnern in die Zange, um sie anschließend entzweizureißen oder mit Wucht fortzuschleudern."
 	},
 
 	regulationMark: "G",

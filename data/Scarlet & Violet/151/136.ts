@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Es speichert Atemluft in einem Flammensack. Dort erhitzt es sie auf 1700°C, um sie als Flammen auszuspuken."
 	},
 
 	regulationMark: "G",

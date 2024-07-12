@@ -60,7 +60,7 @@ const card: Card = {
 	retreat: 3,
 
 	description: {
-		de: ""
+		de: "Es kann sich immer nur eine Sache merken. Sobald es losgestürmt ist, vergisst es augenblicklich den Auslöser dafür."
 	},
 
 	regulationMark: "G",

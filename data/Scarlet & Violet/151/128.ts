@@ -67,7 +67,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Wenn Tauros Beute ins Visier genommen hat, stürmt es direkt auf sie zu und benutzt seine Schweife als Peitsche, um sich anzutreiben."
 	},
 
 	regulationMark: "G",

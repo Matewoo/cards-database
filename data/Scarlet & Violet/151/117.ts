@@ -47,7 +47,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Selbst Beute, die größer als sein Mund ist, kann es dank dessen starker Saugkraft im Nu einsaugen und verspeisen."
 	},
 
 	regulationMark: "G",

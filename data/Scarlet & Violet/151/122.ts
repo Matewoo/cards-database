@@ -67,7 +67,7 @@ const card: Card = {
 	retreat: 1,
 
 	description: {
-		de: ""
+		de: "Es ist für Pantomime geboren. Zur Abwehr unterschiedlichster Angriffe erzeugt es mit einem Kraftfeld aus seinen Fingerspitzen Schutzwände."
 	},
 
 	regulationMark: "G",

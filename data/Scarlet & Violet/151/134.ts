@@ -69,7 +69,7 @@ const card: Card = {
 	retreat: 2,
 
 	description: {
-		de: ""
+		de: "Diese Pokémon lebt nahe an Gewässern. Wegen seiner fischähnlichen Schwanzflosse wird es manchmal für eine Meerjungfrau gehalten."
 	},
 
 	regulationMark: "G",
